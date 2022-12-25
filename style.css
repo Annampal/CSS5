@@ -17,7 +17,7 @@ body {
   height: 100px;
   margin: 30px;
   display: inline-block;
-  background-color: rgb(5, 174, 5);
+  background-color:rgb(5, 174, 5);
 }
 .box1 {
   animation-name: box1;
@@ -54,7 +54,7 @@ body {
   animation-duration: 2.5s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
-  background-color: grey;
+  background-color: gray;
 }
 @keyframes box3 {
   0% {
@@ -67,7 +67,7 @@ body {
   background-color: rgb(5, 128, 128);
   border: 2px solid rgb(12, 89, 119);
   animation-duration: 4s;
-  background-color: grey;
+  background-color: gray;
 }
 @keyframes box4 {
   0% {
@@ -80,7 +80,7 @@ body {
 .box5 {
   animation-iteration-count: infinite;
   background-color: rgb(189, 57, 57);
-  border: 2px solid brown;
+  border: 2px solid red;
   animation-name: box5;
   animation-duration: 4s;
   background-color: maroon;
@@ -183,7 +183,7 @@ Html{
   background-color: orange;
 }
 .inde {
-  background-color: white;
+  background-color: whitesmoke;
 }
 .day {
   background-color: green;
@@ -238,7 +238,7 @@ Html{
   top: 443px;
   left: 37%;
   z-index: 5;
-  transform: rotate(18deg);
+  transform: rotate(20deg);
   animation: wheel1 1s linear infinite;
 }
 
@@ -248,7 +248,7 @@ Html{
   top: 443px;
   left: 53.8%;
   z-index: 5;
-  transform: rotate(18deg);
+  transform: rotate(20deg);
   animation: wheel2 1s linear infinite;
 }
 .flag1 {
